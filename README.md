@@ -4,7 +4,7 @@
 
 ## 開啟方式
 
-2026-10-05 依設計師要求準備上傳至 [Studio-apps-2026](https://github.com/garyman925/Studio-apps-2026)，並以 GitHub Pages 提供測試。預定網址：[線上 Demo](https://garyman925.github.io/Studio-apps-2026/)。Pages 設定為 main 分支根目錄，首次發佈完成後可直接在電腦或手機瀏覽器操作。更新 main 後 Pages 會重新發佈。
+2026-10-05 依設計師要求已上傳至 [Studio-apps-2026](https://github.com/garyman925/Studio-apps-2026)，並以 GitHub Pages 提供測試。測試網址：[線上 Demo](https://garyman925.github.io/Studio-apps-2026/)。Pages 設定為 main 分支根目錄，已確認發佈成功，可直接在電腦或手機瀏覽器操作。更新 main 後 Pages 會重新發佈。
 
 線上版本同樣只使用虛構資料及頁面記憶體；重新整理清除申請，不上傳附件或連接正式帳戶。課堂的「今日」仍是固定示例日期 2026年9月24日。
 
@@ -12,7 +12,7 @@
 
 本機伺服器（目前評審使用此方式）：在本資料夾執行 `node server.cjs`，開啟 http://127.0.0.1:4173 。伺服器只監聽本機、不接受資料提交。關閉該程序即停止。若 4173 已在使用，先直接開啟現有頁面，不必重複啟動。
 
-手機實機：localhost 指向手機本身，不能直接開啟電腦的 127.0.0.1。若你已有允許私人區域網絡存取的 XAMPP，電腦與手機連同一私人 Wi-Fi，在手機開啟 `http://電腦的區域網絡IP/studio-apps-2026/`。本次沒有開啟防火牆、修改 Apache、啟用對外監聽或公開部署；此私人網絡方式及真實手機尚未驗證。
+手機實機：localhost 指向手機本身，不能直接開啟電腦的 127.0.0.1。若你已有允許私人區域網絡存取的 XAMPP，電腦與手機連同一私人 Wi-Fi，在手機開啟 `http://電腦的區域網絡IP/studio-apps-2026/`。本機伺服器設定未變更；私人網絡方式及真實手機尚未驗證。手機亦可直接使用上述 GitHub Pages 測試網址。
 
 ## 評審操作
 

@@ -95,3 +95,11 @@
 - `final-long-student-360.png`：修正後完整姓名與空課堂。
 
 截圖皆在 `../screenshots/`。01–18 是第一輪完整頁面／狀態證據，並非最終視覺版本；sticky 導覽會停在截圖當時 viewport 位置，不能據此認為內容不可捲動。
+
+## 2026-10-05：GitHub 測試發佈
+
+- 依設計師要求，將目前 Demo 及設計／驗證文件上傳至 https://github.com/garyman925/Studio-apps-2026 。原始需求附件保留本地，未上傳。
+- GitHub Pages 使用 main 分支根目錄；測試網址：https://garyman925.github.io/Studio-apps-2026/ 。
+- 發佈服務回報 built；線上 index.html、styles.css、content.js、app.js 全部回傳 HTTP 200，內容逐一比對與本地版本一致。
+- 本輪沒有修改介面或流程。上述證據只驗證發佈及檔案完整性；既有瀏覽器流程證據見第二輪紀錄。
+- 本輪線上互動驗證工具因本機沙盒啟動失敗而未能執行；真實手機軟鍵盤仍待人工驗證，沿用上述測試步驟。
