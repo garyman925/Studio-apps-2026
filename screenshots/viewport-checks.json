@@ -1,0 +1,92 @@
+[
+  {
+    "page": "lessons",
+    "width": 360,
+    "client": 345,
+    "scroll": 345
+  },
+  {
+    "page": "lessons",
+    "width": 390,
+    "client": 375,
+    "scroll": 375
+  },
+  {
+    "page": "lessons",
+    "width": 430,
+    "client": 415,
+    "scroll": 415
+  },
+  {
+    "page": "detail",
+    "width": 360,
+    "client": 345,
+    "scroll": 345
+  },
+  {
+    "page": "detail",
+    "width": 390,
+    "client": 375,
+    "scroll": 375
+  },
+  {
+    "page": "detail",
+    "width": 430,
+    "client": 415,
+    "scroll": 415
+  },
+  {
+    "page": "form",
+    "width": 360,
+    "client": 345,
+    "scroll": 345
+  },
+  {
+    "page": "form",
+    "width": 390,
+    "client": 375,
+    "scroll": 375
+  },
+  {
+    "page": "form",
+    "width": 430,
+    "client": 415,
+    "scroll": 415
+  },
+  {
+    "page": "success",
+    "width": 360,
+    "client": 345,
+    "scroll": 345
+  },
+  {
+    "page": "success",
+    "width": 390,
+    "client": 375,
+    "scroll": 375
+  },
+  {
+    "page": "success",
+    "width": 430,
+    "client": 415,
+    "scroll": 415
+  },
+  {
+    "page": "records",
+    "width": 360,
+    "client": 345,
+    "scroll": 345
+  },
+  {
+    "page": "records",
+    "width": 390,
+    "client": 375,
+    "scroll": 375
+  },
+  {
+    "page": "records",
+    "width": 430,
+    "client": 415,
+    "scroll": 415
+  }
+]

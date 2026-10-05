@@ -1,0 +1,39 @@
+{
+  "date": {
+    "font": "16px",
+    "lineHeight": "25.6px"
+  },
+  "firstCardBottom": 608.828125,
+  "firstCardTop": 301.96875,
+  "grade": {
+    "font": "14px",
+    "lineHeight": "22.4px"
+  },
+  "navTop": 764.609375,
+  "nestedInteractive": 0,
+  "received": {
+    "font": "14px",
+    "lineHeight": "22.4px"
+  },
+  "receivedColor": "rgb(110, 56, 122)",
+  "secondary": {
+    "font": "14px",
+    "lineHeight": "22.4px"
+  },
+  "student": {
+    "font": "16px",
+    "lineHeight": "25.6px"
+  },
+  "tutor": {
+    "font": "16px",
+    "lineHeight": "25.6px"
+  },
+  "venue": {
+    "font": "16px",
+    "lineHeight": "25.6px"
+  },
+  "viewport": [
+    390,
+    844
+  ]
+}

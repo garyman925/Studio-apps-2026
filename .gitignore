@@ -1,0 +1,12 @@
+# Local source attachments; the repository contains the fictional Demo and its handoff.
+/UI_Designer_Workflow_Checklist.xlsx
+/docs/App Features.md
+/docs/APP_ENHANCEMENT_REQUIREMENTS_PHASE1.md
+
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
