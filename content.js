@@ -1,16 +1,15 @@
 // 所有資料均為虛構。集中維護文案、示例資料與候選表單選項。
 window.DEMO_CONTENT = {
   copy: {
-    brand: 'i-Learner', subbrand: '家長課堂', demo: 'Demo・所有資料均為虛構',
+    brand: 'i-Learner', subbrand: '家長課堂',
     listTitle: '我的課堂',
     received: '申請已收到', status: '申請已收到',
     disclaimer: '收到申請不等於批准請假，亦不代表獲得補堂資格。',
-    privacy: '僅作互動示範，不會送出任何資料。重新整理會清除申請及草稿。',
     required: '請選擇一個請假原因。', submitting: '正在提交申請…',
     failed: '提交失敗，資料已保留。請再試一次。',
     emptyLessons: '暫時沒有課堂', emptyRecords: '還沒有請假紀錄',
     reasons: ['身體不適', '家庭安排', '其他原因'],
-    attachments: ['示例證明.pdf', '示例附件.jpg']
+    attachments: ['證明.pdf', '附件.jpg']
   },
   students: [
     { id: 's1', name: '陳樂晴', english: 'Chloe', initial: '晴', level: '小三' },

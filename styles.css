@@ -33,7 +33,6 @@ h2 { font-size: var(--card-title); line-height: 1.45; }
 h3 { font-size: var(--body); }
 svg { width: 22px; height: 22px; flex-shrink: 0; stroke-width: 1.7; }
 .app { max-width: var(--phone-max); min-height: 100dvh; margin: auto; background: var(--bg); display: flex; flex-direction: column; }
-.demo-bar { background: var(--tint); color: var(--text); padding: var(--s2) var(--s5); font-size: var(--small); line-height: 1.5; }
 .header { display: flex; align-items: center; justify-content: space-between; padding: var(--s3) var(--s5); gap: var(--s3); }
 .brand { color: var(--brand); font-size: 1.25rem; font-weight: 750; letter-spacing: -.05em; }
 .brand small { color: var(--muted); font-size: var(--small); font-weight: 400; letter-spacing: 0; margin-left: var(--s2); }
@@ -120,7 +119,6 @@ fieldset { padding: 0; margin: 0; border: 0; min-width: 0; }
 .review label { display: block; margin-bottom: var(--s3); }
 .review select { width: 100%; min-height: var(--touch); border: 1px solid var(--line); border-radius: var(--field-radius); padding: var(--s2); background: var(--surface); color: var(--text); margin-top: var(--s2); }
 .review input { accent-color: var(--brand); }
-.privacy { margin-block: var(--s3); font-size: var(--small); line-height: 1.6; color: var(--muted); }
 .bottom-nav { position: fixed; bottom: 0; left: 50%; transform: translateX(-50%); width: 100%; max-width: var(--phone-max); z-index: 2; background: var(--surface); border-top: 1px solid var(--line); display: flex; padding: var(--s2) var(--s5) calc(var(--s2) + var(--safe-bottom)); gap: var(--s4); }
 .bottom-nav a { flex: 1; min-width: 0; min-height: var(--touch); display: grid; justify-items: center; padding: var(--s1); font-size: var(--small); color: var(--muted); text-align: center; overflow-wrap: anywhere; }
 .bottom-nav .nav-icon { width: 64px; height: 32px; display: grid; place-items: center; border-radius: var(--pill); }

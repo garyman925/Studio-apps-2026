@@ -2,6 +2,7 @@
   'use strict';
   const { copy: C, students, lessons } = window.DEMO_CONTENT;
   const root = document.getElementById('app');
+  const reviewEnabled = new URLSearchParams(location.search).get('review') === '1';
   const state = { student: 's1', records: [], drafts: {}, pending: new Set(), mode: 'normal', failNext: false, textScale: '100' };
   // Includes safe-area padding and recalculates when text size or viewport changes.
   const navObserver = new ResizeObserver(entries => {
@@ -49,7 +50,7 @@
   function previewState(isRecords) {
     if (state.mode === 'loading') return `<div class="card" role="status" aria-busy="true"><p>正在載入${isRecords ? '請假紀錄' : '課堂'}…</p><div class="skeleton"></div><div class="skeleton short"></div><div class="skeleton"></div></div>`;
     if (state.mode === 'empty') return empty(isRecords);
-    if (state.mode === 'error') return `<section class="card empty" role="alert">${icon('file')}<h2>暫時未能載入</h2><p>這是 Demo 錯誤情境，請重試。</p><button class="secondary" data-action="retry">重新載入</button></section>`;
+    if (state.mode === 'error') return `<section class="card empty" role="alert">${icon('file')}<h2>暫時未能載入</h2><p>請稍後重試。</p><button class="secondary" data-action="retry">重新載入</button></section>`;
     return '';
   }
   function list() {
@@ -63,7 +64,7 @@
   function leave(l) {
     if (record(l.id)) return `<h1>${C.received}</h1>${summary(l)}<div class="note">${C.disclaimer}</div>${link('records', '查看請假紀錄')}`;
     const d = draft(l.id), busy = state.pending.has(l.id);
-    return `<div class="intro"><h1>為這堂課請假</h1><p class="muted">請核對學生及課堂，再填寫資料。</p></div>${summary(l)}<form id="leave-form" novalidate><fieldset ${busy ? 'disabled' : ''}><div class="field"><label class="form-label" for="reason">請假原因 <span class="optional">必填</span></label><select id="reason" name="reason" aria-required="true" aria-invalid="${!!d.error}" aria-describedby="reason-error"><option value="">請選擇原因</option>${C.reasons.map(r => `<option ${d.reason === r ? 'selected' : ''}>${esc(r)}</option>`).join('')}</select><p class="error" id="reason-error" role="alert">${d.error}</p></div><div class="field"><label class="form-label" for="note">備註 <span class="optional">選填</span></label><textarea id="note" name="note" placeholder="如有其他補充，可在這裡填寫。">${esc(d.note)}</textarea><p class="hint">請勿填寫真實個人或醫療資料。</p></div><div class="field"><label class="form-label" for="attachment">附件 <span class="optional">選填</span></label><select id="attachment" name="attachment"><option value="">不加入附件</option>${C.attachments.map(a => `<option ${d.attachment === a ? 'selected' : ''}>${esc(a)}</option>`).join('')}</select><p class="hint">僅選擇預設檔名，不會讀取或上傳檔案。</p>${d.attachment ? `<div class="attachment row between"><span>${icon('file')} ${esc(d.attachment)}</span><button type="button" class="text-button" data-action="remove">移除</button></div>` : ''}</div></fieldset><div class="note">${C.disclaimer}</div>${d.failed ? `<div role="alert" class="error-panel error">${C.failed}</div>` : ''}<button class="primary" type="submit" ${busy ? 'disabled' : ''}>${busy ? '<span class="spinner" aria-hidden="true"></span>' + C.submitting : '提交申請 ' + icon('arrow')}</button><p class="hint" role="status">${busy ? '提交中，請勿重複操作。' : ''}</p></form>`;
+    return `<div class="intro"><h1>為這堂課請假</h1><p class="muted">請核對學生及課堂，再填寫資料。</p></div>${summary(l)}<form id="leave-form" novalidate><fieldset ${busy ? 'disabled' : ''}><div class="field"><label class="form-label" for="reason">請假原因 <span class="optional">必填</span></label><select id="reason" name="reason" aria-required="true" aria-invalid="${!!d.error}" aria-describedby="reason-error"><option value="">請選擇原因</option>${C.reasons.map(r => `<option ${d.reason === r ? 'selected' : ''}>${esc(r)}</option>`).join('')}</select><p class="error" id="reason-error" role="alert">${d.error}</p></div><div class="field"><label class="form-label" for="note">備註 <span class="optional">選填</span></label><textarea id="note" name="note" placeholder="如有其他補充，可在這裡填寫。">${esc(d.note)}</textarea></div><div class="field"><label class="form-label" for="attachment">附件 <span class="optional">選填</span></label><select id="attachment" name="attachment"><option value="">不加入附件</option>${C.attachments.map(a => `<option ${d.attachment === a ? 'selected' : ''}>${esc(a)}</option>`).join('')}</select>${d.attachment ? `<div class="attachment row between"><span>${icon('file')} ${esc(d.attachment)}</span><button type="button" class="text-button" data-action="remove">移除</button></div>` : ''}</div></fieldset><div class="note">${C.disclaimer}</div>${d.failed ? `<div role="alert" class="error-panel error">${C.failed}</div>` : ''}<button class="primary" type="submit" ${busy ? 'disabled' : ''}>${busy ? '<span class="spinner" aria-hidden="true"></span>' + C.submitting : '提交申請 ' + icon('arrow')}</button><p class="hint" role="status">${busy ? '提交中，請勿重複操作。' : ''}</p></form>`;
   }
   function success(l) {
     const r = record(l.id);
@@ -79,19 +80,20 @@
   function studentCard(s, page, locked) {
     return `<section class="student row ${locked ? '' : 'selectable'}" aria-label="學生資料"><span class="avatar" aria-hidden="true">${s.initial}</span><div class="student-fields"><p class="hint">${['leave', 'success'].includes(page) ? '本次申請學生' : '目前學生'}</p><p class="student-name"><strong>${esc(s.name)}</strong><span class="hint">${s.level}</span></p><p class="hint">${esc(s.english)}</p></div>${locked ? '' : `<span class="student-switch" aria-hidden="true">切換⌄</span><select id="student" aria-label="切換學生">${students.map(v => `<option value="${v.id}" ${v.id === s.id ? 'selected' : ''}>${esc(v.name)} · ${v.level}</option>`).join('')}</select>`}</section>`;
   }
-  function reviewNotes(page) {
-    return `<details class="review"><summary>評審備註與狀態預覽</summary><p class="privacy">Demo v0.2 · ${C.privacy}</p><p>請假原因必填只供本次測試；原因選項及正式必填規則待營運確認。請假期限、補堂資格、檔案大小及字數限制均未設定。</p><p class="privacy">所有課堂以 2026年9月24日為示例「今日」。除品牌紫色外，視覺數值仍為候選，待設計師定稿。</p><label>文字大小（評審）<select id="text-scale">${[['100', '100%（預設）'], ['150', '150%'], ['200', '200%']].map(([value, label]) => `<option value="${value}" ${state.textScale === value ? 'selected' : ''}>${label}</option>`).join('')}</select></label><p class="privacy">此控制只放大網頁文字，用於檢查換行；不能代替實機字體設定或軟鍵盤測試。</p>${['lessons', 'records'].includes(page) ? `<label>畫面狀態<select id="preview-mode">${[['normal', '正常資料'], ['loading', '載入中'], ['empty', '空資料'], ['error', '載入失敗']].map(([v, n]) => `<option value="${v}" ${state.mode === v ? 'selected' : ''}>${n}</option>`).join('')}</select></label>` : ''}${page === 'leave' ? `<label><input id="fail-next" type="checkbox" ${state.failNext ? 'checked' : ''}> 模擬下一次提交失敗</label>` : ''}</details>`;
+  // Review controls are opt-in; explanatory notes live in the handoff documents.
+  function reviewControls(page) {
+    return `<details class="review"><summary>畫面設定</summary><label>文字大小<select id="text-scale">${[['100', '100%（預設）'], ['150', '150%'], ['200', '200%']].map(([value, label]) => `<option value="${value}" ${state.textScale === value ? 'selected' : ''}>${label}</option>`).join('')}</select></label>${['lessons', 'records'].includes(page) ? `<label>畫面狀態<select id="preview-mode">${[['normal', '正常資料'], ['loading', '載入中'], ['empty', '空資料'], ['error', '載入失敗']].map(([v, n]) => `<option value="${v}" ${state.mode === v ? 'selected' : ''}>${n}</option>`).join('')}</select></label>` : ''}${page === 'leave' ? `<label><input id="fail-next" type="checkbox" ${state.failNext ? 'checked' : ''}> 下一次提交：失敗</label>` : ''}</details>`;
   }
   function render(focus = false) {
     const { page, lesson } = route(), s = student();
     const subpage = !!lesson, back = page === 'leave' ? `detail/${lesson.id}` : 'lessons';
     const pageBody = page === 'lessons' ? list() : page === 'detail' ? detail(lesson) : page === 'leave' ? leave(lesson) : page === 'success' ? success(lesson) : records();
     navObserver.disconnect();
-    root.innerHTML = `<div class="demo-bar">${C.demo}</div><header class="header">${subpage ? `<a href="#${back}" class="icon-button" aria-label="${page === 'leave' ? '返回課堂詳情' : '返回課堂列表'}">${icon('back')}</a><span class="hint">${C.subbrand}</span>` : `<div class="row"><span class="brand-mark">${icon('book')}</span><span class="brand">${C.brand}<small>${C.subbrand}</small></span></div>`}</header>${studentCard(s, page, subpage)}<main>${pageBody}${reviewNotes(page)}</main><nav class="bottom-nav" aria-label="主要導覽"><a href="#lessons" ${page !== 'records' ? 'aria-current="page"' : ''}><span class="nav-icon">${icon('calendar')}</span>課堂</a><a href="#records" ${page === 'records' ? 'aria-current="page"' : ''}><span class="nav-icon">${icon('file')}</span>請假紀錄</a></nav>`;
+    root.innerHTML = `<header class="header">${subpage ? `<a href="#${back}" class="icon-button" aria-label="${page === 'leave' ? '返回課堂詳情' : '返回課堂列表'}">${icon('back')}</a><span class="hint">${C.subbrand}</span>` : `<div class="row"><span class="brand-mark">${icon('book')}</span><span class="brand">${C.brand}<small>${C.subbrand}</small></span></div>`}</header>${studentCard(s, page, subpage)}<main>${pageBody}${reviewEnabled ? reviewControls(page) : ''}</main><nav class="bottom-nav" aria-label="主要導覽"><a href="#lessons" ${page !== 'records' ? 'aria-current="page"' : ''}><span class="nav-icon">${icon('calendar')}</span>課堂</a><a href="#records" ${page === 'records' ? 'aria-current="page"' : ''}><span class="nav-icon">${icon('file')}</span>請假紀錄</a></nav>`;
     const nav = root.querySelector('.bottom-nav');
     measureNav(nav);
     navObserver.observe(nav);
-    document.title = `${({ lessons: '我的課堂', detail: '課堂詳情', leave: '請假表單', success: C.received, records: '請假紀錄' })[page]} · Demo`;
+    document.title = `${({ lessons: '我的課堂', detail: '課堂詳情', leave: '請假表單', success: C.received, records: '請假紀錄' })[page]} · 家長課堂`;
     if (focus) { const h = root.querySelector('h1'); h.setAttribute('tabindex', '-1'); h.focus({ preventScroll: true }); window.scrollTo(0, 0); }
   }
   root.addEventListener('change', event => {
@@ -136,7 +138,7 @@
     setTimeout(() => {
       state.pending.delete(l.id);
       if (fail) d.failed = true;
-      else if (!record(l.id)) state.records.unshift({ id: `DEMO-${String(state.records.length + 1).padStart(3, '0')}`, lesson: l.id, student: l.student, reason: payload.reason, note: payload.note, attachment: payload.attachment, time: new Intl.DateTimeFormat('zh-HK', { timeZone: 'Asia/Hong_Kong', dateStyle: 'medium', timeStyle: 'short' }).format(new Date()) });
+      else if (!record(l.id)) state.records.unshift({ id: `REQ-${String(state.records.length + 1).padStart(3, '0')}`, lesson: l.id, student: l.student, reason: payload.reason, note: payload.note, attachment: payload.attachment, time: new Intl.DateTimeFormat('zh-HK', { timeZone: 'Asia/Hong_Kong', dateStyle: 'medium', timeStyle: 'short' }).format(new Date()) });
       const current = route();
       if (!fail && current.page === 'leave' && current.lesson?.id === l.id) location.hash = `success/${l.id}`;
       else render();
