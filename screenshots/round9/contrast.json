@@ -1,0 +1,92 @@
+[
+  {
+    "foreground": "#252A34",
+    "background": "#F7F8FA",
+    "pair": "text/bg",
+    "ratio": 13.54
+  },
+  {
+    "foreground": "#252A34",
+    "background": "#FFFFFF",
+    "pair": "text/surface",
+    "ratio": 14.39
+  },
+  {
+    "foreground": "#626773",
+    "background": "#F7F8FA",
+    "pair": "muted/bg",
+    "ratio": 5.33
+  },
+  {
+    "foreground": "#626773",
+    "background": "#FFFFFF",
+    "pair": "muted/top",
+    "ratio": 5.66
+  },
+  {
+    "foreground": "#626773",
+    "background": "#FFFFFF",
+    "pair": "muted/nav-bg",
+    "ratio": 5.66
+  },
+  {
+    "foreground": "#1D655F",
+    "background": "#FFFFFF",
+    "pair": "action-text/surface",
+    "ratio": 6.82
+  },
+  {
+    "foreground": "#FFFFFF",
+    "background": "#267D77",
+    "pair": "on-brand/brand",
+    "ratio": 4.9
+  },
+  {
+    "foreground": "#52616A",
+    "background": "#EEF2F3",
+    "pair": "received-text/received-bg",
+    "ratio": 5.69
+  },
+  {
+    "foreground": "#686E79",
+    "background": "#FFFFFF",
+    "pair": "placeholder/surface",
+    "ratio": 5.13
+  },
+  {
+    "foreground": "#A31F3B",
+    "background": "#FAEDF1",
+    "pair": "error/error-bg",
+    "ratio": 6.55
+  },
+  {
+    "foreground": "#1D655F",
+    "background": "#EAF4F2",
+    "pair": "action-text/tint",
+    "ratio": 6.08
+  },
+  {
+    "foreground": "#855600",
+    "background": "#FFF4D6",
+    "pair": "requested-text/requested-bg",
+    "ratio": 5.76
+  },
+  {
+    "foreground": "#1D655F",
+    "background": "#EAF4F2",
+    "pair": "approved-text/approved-bg",
+    "ratio": 6.08
+  },
+  {
+    "foreground": "#855600",
+    "background": "#FFFFFF",
+    "pair": "requested-text/surface",
+    "ratio": 6.31
+  },
+  {
+    "foreground": "#1D655F",
+    "background": "#FFFFFF",
+    "pair": "approved-text/surface",
+    "ratio": 6.82
+  }
+]

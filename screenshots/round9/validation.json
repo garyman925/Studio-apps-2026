@@ -1,0 +1,1642 @@
+{
+  "round": 9,
+  "date": "2026-10-09",
+  "browser": "151.0.7922.34",
+  "checks": [
+    {
+      "label": "390x844 week initial mixed states",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 318,
+      "atBottom": false,
+      "navHeight": 76.6875,
+      "navTop": 767.3125,
+      "mainBottomPadding": "101px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "14px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 compact UI",
+      "height": 264.84375,
+      "padding": "16px",
+      "timeBorder": "0px",
+      "iconCalendar": true,
+      "iconStudent": true,
+      "todayLabels": 2
+    },
+    {
+      "label": "390x844 month",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 521,
+      "atBottom": false,
+      "navHeight": 76.6875,
+      "navTop": 767.3125,
+      "mainBottomPadding": "101px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "14px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 unsubmitted details",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 76.6875,
+      "navTop": 767.3125,
+      "mainBottomPadding": "101px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 form bottom",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 267,
+      "maxScroll": 267,
+      "atBottom": true,
+      "navHeight": 76.6875,
+      "navTop": 767.3125,
+      "mainBottomPadding": "101px",
+      "button": {
+        "top": 691.34375,
+        "bottom": 743.34375,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 success bottom",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1,
+      "maxScroll": 1,
+      "atBottom": true,
+      "navHeight": 76.6875,
+      "navTop": 767.3125,
+      "mainBottomPadding": "101px",
+      "button": {
+        "top": 626.75,
+        "bottom": 678.75,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 records bottom",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1240,
+      "maxScroll": 1240,
+      "atBottom": true,
+      "navHeight": 76.6875,
+      "navTop": 767.3125,
+      "mainBottomPadding": "101px",
+      "button": {
+        "top": 654.28125,
+        "bottom": 706.28125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 week 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1238,
+      "maxScroll": 1238,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 745.609375,
+      "mainBottomPadding": "123px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "28px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 month 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 1541,
+      "atBottom": false,
+      "navHeight": 98.390625,
+      "navTop": 745.609375,
+      "mainBottomPadding": "123px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "28px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long course list 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 1105,
+      "atBottom": false,
+      "navHeight": 98.390625,
+      "navTop": 745.609375,
+      "mainBottomPadding": "123px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "28px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long detail 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 787,
+      "atBottom": false,
+      "navHeight": 98.390625,
+      "navTop": 745.609375,
+      "mainBottomPadding": "123px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long form 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1011,
+      "maxScroll": 1011,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 745.609375,
+      "mainBottomPadding": "123px",
+      "button": {
+        "top": 560.6875,
+        "bottom": 636.28125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 retry 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1145,
+      "maxScroll": 1145,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 745.609375,
+      "mainBottomPadding": "123px",
+      "button": {
+        "top": 561.46875,
+        "bottom": 637.0625,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 success 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 708,
+      "maxScroll": 708,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 745.609375,
+      "mainBottomPadding": "123px",
+      "button": {
+        "top": 473.109375,
+        "bottom": 548.703125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long records 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1818,
+      "maxScroll": 1818,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 745.609375,
+      "mainBottomPadding": "123px",
+      "button": {
+        "top": 539.75,
+        "bottom": 615.34375,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 empty records 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 745.609375,
+      "mainBottomPadding": "123px",
+      "button": {
+        "top": 516.5625,
+        "bottom": 592.15625,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 short empty page",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 76.6875,
+      "navTop": 767.3125,
+      "mainBottomPadding": "101px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 interactions",
+      "passed": [
+        "Monday week",
+        "mixed statuses",
+        "sorted classes",
+        "month toggle preserves selection",
+        "cross month/week",
+        "today",
+        "empty day",
+        "student preserves selection",
+        "keyboard arrows/Enter/Tab/Escape",
+        "approved no resubmit",
+        "pending disclaimer",
+        "draft/back",
+        "validation",
+        "duplicate guard",
+        "new request pending only",
+        "date marker synchronizes",
+        "reload two seeds/draft cleared",
+        "failure retry",
+        "loading/error",
+        "long name/course/note"
+      ]
+    },
+    {
+      "label": "430x932 week initial mixed states",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 230,
+      "atBottom": false,
+      "navHeight": 76.6875,
+      "navTop": 855.3125,
+      "mainBottomPadding": "101px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "14px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 compact UI",
+      "height": 264.84375,
+      "padding": "16px",
+      "timeBorder": "0px",
+      "iconCalendar": true,
+      "iconStudent": true,
+      "todayLabels": 2
+    },
+    {
+      "label": "430x932 month",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 185,
+      "maxScroll": 433,
+      "atBottom": false,
+      "navHeight": 76.6875,
+      "navTop": 855.3125,
+      "mainBottomPadding": "101px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "14px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 unsubmitted details",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 76.6875,
+      "navTop": 855.3125,
+      "mainBottomPadding": "101px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 form bottom",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 179,
+      "maxScroll": 179,
+      "atBottom": true,
+      "navHeight": 76.6875,
+      "navTop": 855.3125,
+      "mainBottomPadding": "101px",
+      "button": {
+        "top": 779.34375,
+        "bottom": 831.34375,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 success bottom",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 76.6875,
+      "navTop": 855.3125,
+      "mainBottomPadding": "101px",
+      "button": {
+        "top": 627.75,
+        "bottom": 679.75,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 records bottom",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 1109,
+      "maxScroll": 1109,
+      "atBottom": true,
+      "navHeight": 76.6875,
+      "navTop": 855.3125,
+      "mainBottomPadding": "101px",
+      "button": {
+        "top": 741.90625,
+        "bottom": 793.90625,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 week 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 830,
+      "maxScroll": 830,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 833.609375,
+      "mainBottomPadding": "123px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "28px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 month 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 1133,
+      "atBottom": false,
+      "navHeight": 98.390625,
+      "navTop": 833.609375,
+      "mainBottomPadding": "123px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "28px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long course list 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 859,
+      "atBottom": false,
+      "navHeight": 98.390625,
+      "navTop": 833.609375,
+      "mainBottomPadding": "123px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "28px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long detail 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 699,
+      "atBottom": false,
+      "navHeight": 98.390625,
+      "navTop": 833.609375,
+      "mainBottomPadding": "123px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long form 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 774,
+      "maxScroll": 774,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 833.609375,
+      "mainBottomPadding": "123px",
+      "button": {
+        "top": 648.703125,
+        "bottom": 724.296875,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 retry 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 908,
+      "maxScroll": 908,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 833.609375,
+      "mainBottomPadding": "123px",
+      "button": {
+        "top": 649.484375,
+        "bottom": 725.078125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 success 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 471,
+      "maxScroll": 471,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 833.609375,
+      "mainBottomPadding": "123px",
+      "button": {
+        "top": 561.125,
+        "bottom": 636.71875,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long records 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 1631,
+      "maxScroll": 1631,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 833.609375,
+      "mainBottomPadding": "123px",
+      "button": {
+        "top": 627.5625,
+        "bottom": 703.15625,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 empty records 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 98.390625,
+      "navTop": 833.609375,
+      "mainBottomPadding": "123px",
+      "button": {
+        "top": 516.5625,
+        "bottom": 592.15625,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 short empty page",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 76.6875,
+      "navTop": 855.3125,
+      "mainBottomPadding": "101px",
+      "dialogNoOverflow": true,
+      "header": {
+        "fullWidth": true,
+        "height": 64,
+        "background": "rgb(38, 125, 119)",
+        "position": "static",
+        "separateStrip": true,
+        "logoBackground": "rgba(0, 0, 0, 0)",
+        "englishInStudentRow": false
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 interactions",
+      "passed": [
+        "Monday week",
+        "mixed statuses",
+        "sorted classes",
+        "month toggle preserves selection",
+        "cross month/week",
+        "today",
+        "empty day",
+        "student preserves selection",
+        "keyboard arrows/Enter/Tab/Escape",
+        "approved no resubmit",
+        "pending disclaimer",
+        "draft/back",
+        "validation",
+        "duplicate guard",
+        "new request pending only",
+        "date marker synchronizes",
+        "reload two seeds/draft cleared",
+        "failure retry",
+        "loading/error",
+        "long name/course/note"
+      ]
+    }
+  ],
+  "consoleErrors": [],
+  "requests": [
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    }
+  ],
+  "contrast": [
+    {
+      "foreground": "#252A34",
+      "background": "#F7F8FA",
+      "pair": "text/bg",
+      "ratio": 13.54
+    },
+    {
+      "foreground": "#252A34",
+      "background": "#FFFFFF",
+      "pair": "text/surface",
+      "ratio": 14.39
+    },
+    {
+      "foreground": "#626773",
+      "background": "#F7F8FA",
+      "pair": "muted/bg",
+      "ratio": 5.33
+    },
+    {
+      "foreground": "#626773",
+      "background": "#FFFFFF",
+      "pair": "muted/top",
+      "ratio": 5.66
+    },
+    {
+      "foreground": "#626773",
+      "background": "#FFFFFF",
+      "pair": "muted/nav-bg",
+      "ratio": 5.66
+    },
+    {
+      "foreground": "#1D655F",
+      "background": "#FFFFFF",
+      "pair": "action-text/surface",
+      "ratio": 6.82
+    },
+    {
+      "foreground": "#FFFFFF",
+      "background": "#267D77",
+      "pair": "on-brand/brand",
+      "ratio": 4.9
+    },
+    {
+      "foreground": "#52616A",
+      "background": "#EEF2F3",
+      "pair": "received-text/received-bg",
+      "ratio": 5.69
+    },
+    {
+      "foreground": "#686E79",
+      "background": "#FFFFFF",
+      "pair": "placeholder/surface",
+      "ratio": 5.13
+    },
+    {
+      "foreground": "#A31F3B",
+      "background": "#FAEDF1",
+      "pair": "error/error-bg",
+      "ratio": 6.55
+    },
+    {
+      "foreground": "#1D655F",
+      "background": "#EAF4F2",
+      "pair": "action-text/tint",
+      "ratio": 6.08
+    },
+    {
+      "foreground": "#855600",
+      "background": "#FFF4D6",
+      "pair": "requested-text/requested-bg",
+      "ratio": 5.76
+    },
+    {
+      "foreground": "#1D655F",
+      "background": "#EAF4F2",
+      "pair": "approved-text/approved-bg",
+      "ratio": 6.08
+    },
+    {
+      "foreground": "#855600",
+      "background": "#FFFFFF",
+      "pair": "requested-text/surface",
+      "ratio": 6.31
+    },
+    {
+      "foreground": "#1D655F",
+      "background": "#FFFFFF",
+      "pair": "approved-text/surface",
+      "ratio": 6.82
+    }
+  ]
+}

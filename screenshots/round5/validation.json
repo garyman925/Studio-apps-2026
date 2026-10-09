@@ -1,0 +1,1184 @@
+{
+  "round": 5,
+  "date": "2026-10-09",
+  "browser": "151.0.7922.34",
+  "checks": [
+    {
+      "label": "390x844 list",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 209,
+      "atBottom": false,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 student selection",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 209,
+      "atBottom": false,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 details",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 85,
+      "atBottom": false,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 form 100",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 319,
+      "maxScroll": 319,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "button": {
+        "top": 689.03125,
+        "bottom": 741.03125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 success",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 records 100",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 111,
+      "maxScroll": 111,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "button": {
+        "top": 651.578125,
+        "bottom": 703.578125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 student selection 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 669,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long list 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 669,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long details 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 1028,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long form 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1077,
+      "maxScroll": 1077,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 559.484375,
+        "bottom": 635.078125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 retry 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1212,
+      "maxScroll": 1212,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 559.265625,
+        "bottom": 634.859375,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long success 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 674,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long records 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1913,
+      "maxScroll": 1913,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 537.921875,
+        "bottom": 613.515625,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 empty records 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 247,
+      "maxScroll": 247,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 526.328125,
+        "bottom": 601.921875,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 empty records 100",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 list",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 121,
+      "maxScroll": 121,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 student selection",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 64,
+      "maxScroll": 121,
+      "atBottom": false,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 details",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 form 100",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 231,
+      "maxScroll": 231,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "button": {
+        "top": 777.03125,
+        "bottom": 829.03125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 success",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 records 100",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 1,
+      "maxScroll": 1,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "button": {
+        "top": 739.890625,
+        "bottom": 791.890625,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 student selection 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 415,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long list 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 415,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long details 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 940,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long form 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 884,
+      "maxScroll": 884,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 646.890625,
+        "bottom": 722.484375,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 retry 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 1019,
+      "maxScroll": 1019,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 646.671875,
+        "bottom": 722.265625,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long success 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 481,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long records 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 1670,
+      "maxScroll": 1670,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 626.34375,
+        "bottom": 701.9375,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 empty records 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 110,
+      "maxScroll": 110,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 613.734375,
+        "bottom": 689.328125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 empty records 100",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", \"PingFang TC\", \"Noto Sans TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    }
+  ],
+  "consoleErrors": [],
+  "requests": [
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    }
+  ],
+  "contrast": [
+    {
+      "foreground": "#252A34",
+      "background": "#F7F8FA",
+      "pair": "text/bg",
+      "ratio": 13.54
+    },
+    {
+      "foreground": "#252A34",
+      "background": "#FFFFFF",
+      "pair": "text/surface",
+      "ratio": 14.39
+    },
+    {
+      "foreground": "#626773",
+      "background": "#F7F8FA",
+      "pair": "muted/bg",
+      "ratio": 5.33
+    },
+    {
+      "foreground": "#626773",
+      "background": "#FFFFFF",
+      "pair": "muted/top",
+      "ratio": 5.66
+    },
+    {
+      "foreground": "#626773",
+      "background": "#FFFFFF",
+      "pair": "muted/nav-bg",
+      "ratio": 5.66
+    },
+    {
+      "foreground": "#822196",
+      "background": "#FFFFFF",
+      "pair": "action-text/surface",
+      "ratio": 8.05
+    },
+    {
+      "foreground": "#FFFFFF",
+      "background": "#9C29B2",
+      "pair": "on-brand/brand",
+      "ratio": 6.22
+    },
+    {
+      "foreground": "#62316E",
+      "background": "#EEE6F4",
+      "pair": "received-text/received-bg",
+      "ratio": 7.9
+    },
+    {
+      "foreground": "#686E79",
+      "background": "#FFFFFF",
+      "pair": "placeholder/surface",
+      "ratio": 5.13
+    },
+    {
+      "foreground": "#A31F3B",
+      "background": "#FAEDF1",
+      "pair": "error/error-bg",
+      "ratio": 6.55
+    }
+  ]
+}

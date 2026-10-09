@@ -1,0 +1,1224 @@
+{
+  "round": 6,
+  "date": "2026-10-09",
+  "browser": "151.0.7922.34",
+  "checks": [
+    {
+      "label": "390x844 list",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 42,
+      "atBottom": false,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "14px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 student selection",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 42,
+      "atBottom": false,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "14px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 details",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 form 100",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 234,
+      "maxScroll": 234,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "button": {
+        "top": 689.4375,
+        "bottom": 741.4375,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 success",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 records 100",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "button": {
+        "top": 627.8125,
+        "bottom": 679.8125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 student selection 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 590,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "28px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long list 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 590,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "28px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long details 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 858,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long form 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1081,
+      "maxScroll": 1081,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 559.28125,
+        "bottom": 634.875,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 retry 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1216,
+      "maxScroll": 1216,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 559.0625,
+        "bottom": 634.65625,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long success 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 672,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long records 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1941,
+      "maxScroll": 1941,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 537.921875,
+        "bottom": 613.515625,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 empty records 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 202,
+      "maxScroll": 202,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 743.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 525.734375,
+        "bottom": 601.328125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 empty records 100",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 765.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 list",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "14px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 student selection",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "14px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 details",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 form 100",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 146,
+      "maxScroll": 146,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "button": {
+        "top": 777.4375,
+        "bottom": 829.4375,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 success",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 records 100",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "button": {
+        "top": 606.125,
+        "bottom": 658.125,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 student selection 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 403,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "28px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long list 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 403,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "28px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long details 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 770,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long form 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 844,
+      "maxScroll": 844,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 647.296875,
+        "bottom": 722.890625,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 retry 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 979,
+      "maxScroll": 979,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 647.078125,
+        "bottom": 722.671875,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long success 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 435,
+      "atBottom": false,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long records 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 1649,
+      "maxScroll": 1649,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 625.75,
+        "bottom": 701.34375,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 empty records 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 64,
+      "maxScroll": 64,
+      "atBottom": true,
+      "navHeight": 100.390625,
+      "navTop": 831.609375,
+      "mainBottomPadding": "125px",
+      "button": {
+        "top": 614.140625,
+        "bottom": 689.734375,
+        "clear": true,
+        "hit": true
+      },
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "body": "32px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 empty records 100",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 78.6875,
+      "navTop": 853.3125,
+      "mainBottomPadding": "103px",
+      "dialogNoOverflow": true,
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "body": "16px",
+        "family": "\"Parent Sans\", \"PingFang TC\", \"Microsoft JhengHei\", sans-serif",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(247, 248, 250)",
+        "navigation": "rgb(255, 255, 255)"
+      },
+      "containsDemoNotices": false
+    }
+  ],
+  "consoleErrors": [],
+  "requests": [
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/fonts/noto-sans-tc-variable.woff2"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    }
+  ],
+  "contrast": [
+    {
+      "foreground": "#252A34",
+      "background": "#F7F8FA",
+      "pair": "text/bg",
+      "ratio": 13.54
+    },
+    {
+      "foreground": "#252A34",
+      "background": "#FFFFFF",
+      "pair": "text/surface",
+      "ratio": 14.39
+    },
+    {
+      "foreground": "#626773",
+      "background": "#F7F8FA",
+      "pair": "muted/bg",
+      "ratio": 5.33
+    },
+    {
+      "foreground": "#626773",
+      "background": "#FFFFFF",
+      "pair": "muted/top",
+      "ratio": 5.66
+    },
+    {
+      "foreground": "#626773",
+      "background": "#FFFFFF",
+      "pair": "muted/nav-bg",
+      "ratio": 5.66
+    },
+    {
+      "foreground": "#822196",
+      "background": "#FFFFFF",
+      "pair": "action-text/surface",
+      "ratio": 8.05
+    },
+    {
+      "foreground": "#FFFFFF",
+      "background": "#9C29B2",
+      "pair": "on-brand/brand",
+      "ratio": 6.22
+    },
+    {
+      "foreground": "#62316E",
+      "background": "#EEE6F4",
+      "pair": "received-text/received-bg",
+      "ratio": 7.9
+    },
+    {
+      "foreground": "#686E79",
+      "background": "#FFFFFF",
+      "pair": "placeholder/surface",
+      "ratio": 5.13
+    },
+    {
+      "foreground": "#A31F3B",
+      "background": "#FAEDF1",
+      "pair": "error/error-bg",
+      "ratio": 6.55
+    }
+  ]
+}

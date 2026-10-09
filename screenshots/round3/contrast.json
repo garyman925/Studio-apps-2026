@@ -1,0 +1,38 @@
+[
+  {
+    "pair": "正文/背景",
+    "foreground": "#33213E",
+    "background": "#EDE2F2",
+    "ratio": 11.74
+  },
+  {
+    "pair": "次要文字/重點卡",
+    "foreground": "#67546F",
+    "background": "#E2CFEA",
+    "ratio": 4.67
+  },
+  {
+    "pair": "操作文字/重點卡",
+    "foreground": "#822196",
+    "background": "#E2CFEA",
+    "ratio": 5.5
+  },
+  {
+    "pair": "白字/品牌按鈕",
+    "foreground": "#FFFFFF",
+    "background": "#9C29B2",
+    "ratio": 6.22
+  },
+  {
+    "pair": "狀態文字/狀態底",
+    "foreground": "#62316E",
+    "background": "#E4D2EC",
+    "ratio": 6.74
+  },
+  {
+    "pair": "placeholder/欄位",
+    "foreground": "#76617F",
+    "background": "#F6EEF9",
+    "ratio": 4.89
+  }
+]

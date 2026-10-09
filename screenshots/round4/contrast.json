@@ -1,0 +1,62 @@
+[
+  {
+    "foreground": "#33213E",
+    "background": "#F4F2F6",
+    "pair": "text/bg",
+    "ratio": 13.22
+  },
+  {
+    "foreground": "#33213E",
+    "background": "#F7F4FA",
+    "pair": "text/surface",
+    "ratio": 13.5
+  },
+  {
+    "foreground": "#67546F",
+    "background": "#F4F2F6",
+    "pair": "muted/bg",
+    "ratio": 6.14
+  },
+  {
+    "foreground": "#67546F",
+    "background": "#EEE8F5",
+    "pair": "muted/top",
+    "ratio": 5.69
+  },
+  {
+    "foreground": "#67546F",
+    "background": "#F0ECF4",
+    "pair": "muted/nav-bg",
+    "ratio": 5.86
+  },
+  {
+    "foreground": "#822196",
+    "background": "#F7F4FA",
+    "pair": "action-text/surface",
+    "ratio": 7.39
+  },
+  {
+    "foreground": "#FFFFFF",
+    "background": "#9C29B2",
+    "pair": "on-brand/brand",
+    "ratio": 6.22
+  },
+  {
+    "foreground": "#62316E",
+    "background": "#EEE6F4",
+    "pair": "received-text/received-bg",
+    "ratio": 7.9
+  },
+  {
+    "foreground": "#76617F",
+    "background": "#F7F4FA",
+    "pair": "placeholder/surface",
+    "ratio": 5.09
+  },
+  {
+    "foreground": "#A31F3B",
+    "background": "#FAEDF1",
+    "pair": "error/error-bg",
+    "ratio": 6.55
+  }
+]

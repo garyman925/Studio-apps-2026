@@ -1,0 +1,851 @@
+{
+  "date": "2026-10-09",
+  "browser": "151.0.7922.34",
+  "checks": [
+    {
+      "label": "390x844 list",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 178,
+      "atBottom": false,
+      "navHeight": 79.390625,
+      "navTop": 764.609375,
+      "mainBottomPadding": "104px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 details",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 106,
+      "atBottom": false,
+      "navHeight": 79.390625,
+      "navTop": 764.609375,
+      "mainBottomPadding": "104px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 form 100",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 411,
+      "maxScroll": 411,
+      "atBottom": true,
+      "navHeight": 79.390625,
+      "navTop": 764.609375,
+      "mainBottomPadding": "104px",
+      "button": {
+        "top": 687.6875,
+        "bottom": 739.6875,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 success",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 62,
+      "atBottom": false,
+      "navHeight": 79.390625,
+      "navTop": 764.609375,
+      "mainBottomPadding": "104px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 records 100",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 162,
+      "maxScroll": 162,
+      "atBottom": true,
+      "navHeight": 79.390625,
+      "navTop": 764.609375,
+      "mainBottomPadding": "104px",
+      "button": {
+        "top": 652.453125,
+        "bottom": 704.453125,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long list 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 619,
+      "maxScroll": 619,
+      "atBottom": true,
+      "navHeight": 101.796875,
+      "navTop": 742.203125,
+      "mainBottomPadding": "126px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long details 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 1081,
+      "atBottom": false,
+      "navHeight": 101.796875,
+      "navTop": 742.203125,
+      "mainBottomPadding": "126px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long form 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1217,
+      "maxScroll": 1217,
+      "atBottom": true,
+      "navHeight": 101.796875,
+      "navTop": 742.203125,
+      "mainBottomPadding": "126px",
+      "button": {
+        "top": 554.53125,
+        "bottom": 631.71875,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 retry 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 1354,
+      "maxScroll": 1354,
+      "atBottom": true,
+      "navHeight": 101.796875,
+      "navTop": 742.203125,
+      "mainBottomPadding": "126px",
+      "button": {
+        "top": 555.125,
+        "bottom": 632.3125,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long success 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 790,
+      "atBottom": false,
+      "navHeight": 101.796875,
+      "navTop": 742.203125,
+      "mainBottomPadding": "126px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 long records 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 2023,
+      "maxScroll": 2023,
+      "atBottom": true,
+      "navHeight": 101.796875,
+      "navTop": 742.203125,
+      "mainBottomPadding": "126px",
+      "button": {
+        "top": 535.296875,
+        "bottom": 612.484375,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 empty records 200",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 286,
+      "maxScroll": 286,
+      "atBottom": true,
+      "navHeight": 101.796875,
+      "navTop": 742.203125,
+      "mainBottomPadding": "126px",
+      "button": {
+        "top": 522.984375,
+        "bottom": 600.171875,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "390x844 empty records 100",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 79.390625,
+      "navTop": 764.609375,
+      "mainBottomPadding": "104px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 list",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 90,
+      "atBottom": false,
+      "navHeight": 79.390625,
+      "navTop": 852.609375,
+      "mainBottomPadding": "104px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 details",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 18,
+      "atBottom": false,
+      "navHeight": 79.390625,
+      "navTop": 852.609375,
+      "mainBottomPadding": "104px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 form 100",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 300,
+      "maxScroll": 300,
+      "atBottom": true,
+      "navHeight": 79.390625,
+      "navTop": 852.609375,
+      "mainBottomPadding": "104px",
+      "button": {
+        "top": 776.296875,
+        "bottom": 828.296875,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 success",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 79.390625,
+      "navTop": 852.609375,
+      "mainBottomPadding": "104px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 records 100",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 74,
+      "maxScroll": 74,
+      "atBottom": true,
+      "navHeight": 79.390625,
+      "navTop": 852.609375,
+      "mainBottomPadding": "104px",
+      "button": {
+        "top": 740.453125,
+        "bottom": 792.453125,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": "16px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long list 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 427,
+      "maxScroll": 427,
+      "atBottom": true,
+      "navHeight": 101.796875,
+      "navTop": 830.203125,
+      "mainBottomPadding": "126px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long details 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 993,
+      "atBottom": false,
+      "navHeight": 101.796875,
+      "navTop": 830.203125,
+      "mainBottomPadding": "126px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long form 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 1084,
+      "maxScroll": 1084,
+      "atBottom": true,
+      "navHeight": 101.796875,
+      "navTop": 830.203125,
+      "mainBottomPadding": "126px",
+      "button": {
+        "top": 642.734375,
+        "bottom": 719.921875,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 retry 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 1221,
+      "maxScroll": 1221,
+      "atBottom": true,
+      "navHeight": 101.796875,
+      "navTop": 830.203125,
+      "mainBottomPadding": "126px",
+      "button": {
+        "top": 643.328125,
+        "bottom": 720.515625,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long success 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 657,
+      "atBottom": false,
+      "navHeight": 101.796875,
+      "navTop": 830.203125,
+      "mainBottomPadding": "126px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 long records 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 1725,
+      "maxScroll": 1725,
+      "atBottom": true,
+      "navHeight": 101.796875,
+      "navTop": 830.203125,
+      "mainBottomPadding": "126px",
+      "button": {
+        "top": 622.9375,
+        "bottom": 700.125,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": "32px"
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 empty records 200",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 147,
+      "maxScroll": 147,
+      "atBottom": true,
+      "navHeight": 101.796875,
+      "navTop": 830.203125,
+      "mainBottomPadding": "126px",
+      "button": {
+        "top": 610.796875,
+        "bottom": 687.984375,
+        "clear": true,
+        "hit": true
+      },
+      "logoLoaded": true,
+      "typography": {
+        "heading": "52px",
+        "secondary": "28px",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    },
+    {
+      "label": "430x932 empty records 100",
+      "viewport": {
+        "width": 430,
+        "height": 932
+      },
+      "noOverflow": true,
+      "scrollY": 0,
+      "maxScroll": 0,
+      "atBottom": true,
+      "navHeight": 79.390625,
+      "navTop": 852.609375,
+      "mainBottomPadding": "104px",
+      "logoLoaded": true,
+      "typography": {
+        "heading": "26px",
+        "secondary": "14px",
+        "date": null
+      },
+      "colors": {
+        "background": "rgb(237, 226, 242)",
+        "navigation": "rgb(231, 217, 237)"
+      },
+      "containsDemoNotices": false
+    }
+  ],
+  "consoleErrors": [],
+  "requests": [
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/?review=1"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/styles.css"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/content.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/app.js"
+    },
+    {
+      "method": "GET",
+      "url": "http://127.0.0.1:4173/assets/i-learner-logo.png"
+    }
+  ]
+}
