@@ -240,3 +240,10 @@ Playwright操作真實Chromium 151.0.7922.34，390×844及430×932。應用仍�
 - 發佈服務回報 built；線上 index.html、styles.css、content.js、app.js 全部回傳 HTTP 200，內容逐一比對與本地版本一致。
 - 本輪沒有修改介面或流程。上述證據只驗證發佈及檔案完整性；既有瀏覽器流程證據見第二輪紀錄。
 - 本輪線上互動驗證工具因本機沙盒啟動失敗而未能執行；真實手機軟鍵盤仍待人工驗證，沿用上述測試步驟。
+# GitHub 0.11交付驗證（2026-10-09）
+
+設計師其後授權同步GitHub，覆蓋本輪原先僅本地交付的限制。網站提交 `1ca2192` 已推送至 `garyman925/Studio-apps-2026` 的main；現有main根目錄Pages自動發佈成功：[發佈程序](https://github.com/garyman925/Studio-apps-2026/actions/runs/37928297638)。
+
+在 [線上0.11](https://garyman925.github.io/Studio-apps-2026/?v=0.11#settings) 使用Chromium實測390×844及430×932：HTTP200、版本0.11、三項導航、官方Logo與本地字體載入、三位唯讀學生、200%設定頁無橫向溢出、未填原因錯誤、9月26日提交成功及新增紀錄，全部通過，頁面錯誤0。只使用虛構資料，測試申請在瀏覽器記憶體內。這是線上基本驗證，完整UI驗收仍以以下本地第十一輪證據為準。
+
+證據：[線上量測](../screenshots/round11/github-validation.json)、[390紀錄截圖](../screenshots/round11/github-390-records.png)、[430紀錄截圖](../screenshots/round11/github-430-records.png)；可用 `scripts/validate-github.cjs` 重跑。原始需求附件及XLSX維持本地，不納入公開repository。真實手機鍵盤、安全區、螢幕閱讀器及視覺定稿仍待人工確認。

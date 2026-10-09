@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-09T12:12:11.045Z",
+  "base": "https://garyman925.github.io/Studio-apps-2026/",
+  "version": "0.11",
+  "checks": [
+    {
+      "width": 390,
+      "passed": [
+        "HTTP 200",
+        "version 0.11",
+        "three navigation entries",
+        "logo/font loaded",
+        "three read-only students",
+        "200% no horizontal overflow",
+        "validation error",
+        "submit success",
+        "new request in records"
+      ]
+    },
+    {
+      "width": 430,
+      "passed": [
+        "HTTP 200",
+        "version 0.11",
+        "three navigation entries",
+        "logo/font loaded",
+        "three read-only students",
+        "200% no horizontal overflow",
+        "validation error",
+        "submit success",
+        "new request in records"
+      ]
+    }
+  ],
+  "errors": []
+}
